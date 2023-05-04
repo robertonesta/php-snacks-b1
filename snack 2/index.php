@@ -21,11 +21,11 @@
     </div>
     <div>
         <label for="mail">mail</label>
-        <input type="text" mail="mail" id="mail" class="form-control" placeholder="mail" aria-describedby="suffixId">
+        <input type="text" name="mail" id="mail" class="form-control" placeholder="mail" aria-describedby="suffixId">
     </div>
     <div>
         <label for="age">age</label>
-        <input type="text" age="age" id="age" class="form-control" placeholder="age" aria-describedby="suffixId">
+        <input type="text" name="age" id="age" class="form-control" placeholder="age" aria-describedby="suffixId">
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
